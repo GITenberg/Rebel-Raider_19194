@@ -1,0 +1,35 @@
+_repo: Rebel-Raider_19194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: In the gripping Civil War story ""Rebel Raider,"" H. Beam Piper takes
+  a break from the science fiction that was his typical stock-in-trade and beams readers
+  back into the midst of the conflict that ripped the United States asunder. The tale
+  focuses on the exploits of Confederate leader John Singleton Mosby, who gained acclaim
+  as a ruthless and tactically brilliant raider.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2006-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Mosby, John Singleton, 1833-1916 -- Fiction'
+title: Rebel Raider
+url: http://www.gutenberg.org/ebooks/19194
